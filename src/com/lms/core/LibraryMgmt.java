@@ -4,6 +4,7 @@ import java.util.List;
 import java.util.Scanner;
 
 import com.lms.entities.BookVO;
+import com.lms.entities.UserVO;
 import com.lms.service.LibraryService;
 
 public class LibraryMgmt {

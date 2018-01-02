@@ -2,8 +2,10 @@ package com.lms.service;
 
 import java.util.List;
 
-import com.lms.core.UserVO;
+import com.lms.dao.LibraryMgmtDAO;
+import com.lms.dao.LibraryMgmtDAOImpl;
 import com.lms.entities.BookVO;
+import com.lms.entities.UserVO;
 
 public class LibraryService {
 

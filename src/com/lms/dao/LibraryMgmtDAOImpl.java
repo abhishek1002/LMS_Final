@@ -1,12 +1,12 @@
-package com.lms.service;
+package com.lms.dao;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import com.lms.core.UserVO;
 import com.lms.entities.BookVO;
+import com.lms.entities.UserVO;
 
 public class LibraryMgmtDAOImpl implements LibraryMgmtDAO {
 

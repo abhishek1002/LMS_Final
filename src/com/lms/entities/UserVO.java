@@ -1,4 +1,4 @@
-package com.lms.core;
+package com.lms.entities;
 
 import java.util.List;
 

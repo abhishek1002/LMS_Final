@@ -1,9 +1,9 @@
-package com.lms.service;
+package com.lms.dao;
 
 import java.util.List;
 
-import com.lms.core.UserVO;
 import com.lms.entities.BookVO;
+import com.lms.entities.UserVO;
 
 public interface LibraryMgmtDAO {
 
